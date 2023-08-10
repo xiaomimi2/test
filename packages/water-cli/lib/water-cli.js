@@ -3,5 +3,5 @@
 module.exports = waterCli;
 
 function waterCli() {
-  return 'Hello from waterCli';
+  return 'Hello from waterCli1';
 }
